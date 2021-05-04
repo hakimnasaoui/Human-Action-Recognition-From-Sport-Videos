@@ -4,7 +4,7 @@ UCF Sports dataset consists of a set of actions collected from various sports wh
 
 The dataset includes a total of 150 sequences with the resolution of 720 x 480. The collection represents a natural pool of actions featured in a wide range of scenes and viewpoints. By releasing the data set we hope to encourage further research into this class of action recognition in unconstrained environments. Since its introduction, the dataset has been used for numerous applications such as: action recognition, action localization, and saliency detection.
 
-![dataset](data/dataset.png)
+![dataset](data/dataset.jpg)
 
 
 ## Dataset Actions

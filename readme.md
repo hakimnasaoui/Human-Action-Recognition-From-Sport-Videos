@@ -24,8 +24,8 @@ The dataset includes the following 10 actions. The figure above shows the a samp
 ## Dataset Summary
 The following table summarizes the characteristics of the dataset.
 
+![summary](data/summary.jpg)
 
-https://www.crcv.ucf.edu/data/UCFSports_Files/fig_DatasetSummary.png
 
 
 
